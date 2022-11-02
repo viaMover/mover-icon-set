@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?jqmxd9');
+  src:  url('fonts/icomoon.eot?jqmxd9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jqmxd9') format('truetype'),
+    url('fonts/icomoon.woff?jqmxd9') format('woff'),
+    url('fonts/icomoon.svg?jqmxd9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_left:before {
+  content: "\e900";
+}
+.icon-arrow_right:before {
+  content: "\e901";
+}
+.icon-buy_now_pay_later:before {
+  content: "\e902";
+}
+.icon-camera:before {
+  content: "\e903";
+}
+.icon-card:before {
+  content: "\e904";
+}
+.icon-close:before {
+  content: "\e905";
+}
+.icon-deposit:before {
+  content: "\e906";
+}
+.icon-dollar:before {
+  content: "\e907";
+}
+.icon-dots:before {
+  content: "\e908";
+}
+.icon-error_triangle:before {
+  content: "\e909";
+}
+.icon-external:before {
+  content: "\e90a";
+}
+.icon-eye:before {
+  content: "\e90b";
+}
+.icon-invite_friends:before {
+  content: "\e90c";
+}
+.icon-like:before {
+  content: "\e90d";
+}
+.icon-lock_filled:before {
+  content: "\e90e";
+}
+.icon-lock:before {
+  content: "\e90f";
+}
+.icon-logo_full:before {
+  content: "\e910";
+}
+.icon-logo:before {
+  content: "\e911";
+}
+.icon-savings:before {
+  content: "\e912";
+}
+.icon-select_arrows:before {
+  content: "\e913";
+}
+.icon-smart_treasury:before {
+  content: "\e914";
+}
+.icon-staking:before {
+  content: "\e915";
+}
+.icon-success_circle:before {
+  content: "\e916";
+}
+.icon-success:before {
+  content: "\e917";
+}
+.icon-theme_dark:before {
+  content: "\e918";
+}
+.icon-theme_light:before {
+  content: "\e919";
+}
+.icon-theme_selected:before {
+  content: "\e91a";
+}
+.icon-theme_system:before {
+  content: "\e91b";
+}
+.icon-tooltip:before {
+  content: "\e91c";
+}
+.icon-top_up:before {
+  content: "\e91d";
+}
+.icon-withdraw:before {
+  content: "\e91e";
+}
+.icon-fail:before {
+  content: "\e91f";
+}
+.icon-search:before {
+  content: "\e920";
+}
+.icon-settings:before {
+  content: "\e921";
+}
+.icon-eur:before {
+  content: "\e922";
+}
+.icon-gbp:before {
+  content: "\e923";
+}
+.icon-history:before {
+  content: "\e924";
+}
